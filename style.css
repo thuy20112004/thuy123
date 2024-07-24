@@ -1,0 +1,60 @@
+body {
+  background-image: url("./img/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  color: white;
+  padding: 200px;
+  /* margin-top: 50px; */
+}
+.login {
+  background: white;
+  color: black;
+  border-radius: 10px;
+}
+.Log {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.Don {
+  padding-left: 120px;
+}
+.Google,
+.Facebook,
+.Github,
+.Feide {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+}
+.GF1,
+.GF2 {
+  display: flex;
+  gap: 10px;
+  margin: 10px 30px;
+}
+
+.or {
+  padding-left: 150px;
+}
+.email {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+}
+.password {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+}
+.buttun {
+  display: inline;
+  margin-right: 60px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+}
+.container-2 {
+  color: white;
+}
